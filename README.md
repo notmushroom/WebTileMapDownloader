@@ -16,7 +16,7 @@ http://buraritabi.starfree.jp/TileMapDownloader.zip
 からダウンロードしたZIPファイルを解凍して、「TileMapDownloader.exe」を実行することで使用できます。
 
 
-## ライセンス情報
+## LICENSE
 
 Copyright 2023 Koji Enokida
 
