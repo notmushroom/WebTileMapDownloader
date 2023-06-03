@@ -6,7 +6,7 @@
 
 
 ## 環境
-Version 1.0.0
+Version 1.0.1
 動作環境：Windows10 64bit、.NET Framework 4.8
 
 
