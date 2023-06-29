@@ -15,6 +15,7 @@ Version 1.0.1
 http://buraritabi.starfree.jp/TileMapDownloader.zip
 からダウンロードしたZIPファイルを解凍して、「TileMapDownloader.exe」を実行することで使用できます。
 
+![image](https://github.com/notmushroom/WebTileMapDownloader/assets/49580522/d57e18d0-daba-4854-9f02-078fddc0369c)
 
 ## LICENSE
 
